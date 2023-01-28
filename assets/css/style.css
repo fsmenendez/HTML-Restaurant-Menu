@@ -85,3 +85,9 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+
+#locations{
+    text-align: center;
+    list-style-type: none;
+    padding-left: 0;
+}
